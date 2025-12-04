@@ -6,151 +6,131 @@
     <title>@ViewBag.Title - AdminLTE</title>
 
     <!-- Google Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="~/plugins/fontawesome-free/css/all.min.css">
 
-    <!-- Theme style -->
+    <!-- AdminLTE -->
     <link rel="stylesheet" href="~/dist/css/adminlte.min.css">
 
+    <!-- Bootstrap -->
     <link rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
 
 </head>
 
-<body class="hold-transition sidebar-mini sidebar-collapse">
-
+<body class="hold-transition sidebar-mini layout-fixed">
 
     <div class="wrapper">
 
-        <!-- Navbar -->
+        <!-- NAVBAR -->
         <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview">
 
-                <!-- Only Admin Menu -->
-                @if (User.IsInRole("Admin"))
-                {
-                    <li class="nav-item has-treeview menu-open">
-                        <a href="#" class="nav-link active">
-                            <i class="nav-icon fas fa-users-cog"></i>
-                            <p>
-                                Admin Menu
-                                <i class="right fas fa-angle-left"></i>
-                            </p>
-                        </a>
-
-                        <ul class="nav nav-treeview">
-
-                            <li class="nav-item">
-                                <a asp-controller="AdminUser" asp-action="AddProductOwner" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i> Add Product Owner
-                                </a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a asp-controller="Pg" asp-action="AddPgOwner" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i> Add PG Owner
-                                </a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a asp-controller="Agency" asp-action="AddAgency" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i> Add Agency
-                                </a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a asp-controller="ApprovePgProperties" asp-action="Index" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i> Approved PG Properties
-                                </a>
-                            </li>
-
-                        </ul>
-                    </li>
-                }
-
-
-                <!-- PG Owner Menu -->
-                @if (User.IsInRole("PGOwner"))
-                {
-                    <li class="nav-item">
-                        <a asp-controller="Pg" asp-action="Dashboard" class="nav-link">
-                            <i class="nav-icon fas fa-home"></i>
-                            <p>PG Owner Dashboard</p>
-                        </a>
-                    </li>
-                }
-
-
-                <!-- Agency Menu -->
-                @if (User.IsInRole("Agency"))
-                {
-                    <li class="nav-item">
-                        <a asp-controller="Agency" asp-action="Dashboard" class="nav-link">
-                            <i class="nav-icon fas fa-building"></i>
-                            <p>Agency Dashboard</p>
-                        </a>
-                    </li>
-                }
-
+            <!-- Left navbar links -->
+            <ul class="navbar-nav">
+                <!-- Toggle Sidebar -->
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#">
+                        <i class="fas fa-bars"></i>
+                    </a>
+                </li>
             </ul>
 
-
-            <!-- Fullscreen -->
-            <li class="nav-item">
-                <a class="nav-link" data-widget="fullscreen" href="#">
-                    <i class="fas fa-expand-arrows-alt"></i>
-                </a>
-            </li>
-
+            <!-- Right navbar links -->
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="fullscreen" href="#">
+                        <i class="fas fa-expand-arrows-alt"></i>
+                    </a>
+                </li>
             </ul>
         </nav>
-
-        <!-- Sidebar -->
+        <!-- END NAVBAR -->
         <!-- SIDEBAR -->
-        <aside class="main-sidebar sidebar-dark-primary elevation-4 old-transition sidebar-mini layout-fixed sidebar-collapse">
+        <aside class="main-sidebar sidebar-dark-primary elevation-4">
 
             <!-- Brand Logo -->
             <a href="#" class="brand-link">
-                <img src="~/dist/img/AdminLTELogo.png" class="brand-image img-circle elevation-3">
+                <img src="~/dist/img/AdminLTELogo.png"
+                     class="brand-image img-circle elevation-3">
                 <span class="brand-text font-weight-light">AdminLTE 3</span>
             </a>
 
-            <!-- Sidebar -->
-            @await Html.PartialAsync("_Sidebar")
+            <!-- Sidebar Menu -->
+            <div class="sidebar">
+                <nav class="mt-2">
+                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview">
 
+                        <!-- ADMIN MENU -->
+                        <li class="nav-item has-treeview menu-open">
+                            <a href="#" class="nav-link active">
+                                <i class="nav-icon fas fa-users-cog"></i>
+                                <p>
+                                    Admin Menu
+                                    <i class="right fas fa-angle-left"></i>
+                                </p>
+                            </a>
 
+                            <ul class="nav nav-treeview">
 
-            <!-- Content Wrapper -->
-            <div class="wrapper">
+                                <li class="nav-item">
+                                    <a asp-controller="AdminUser" asp-action="AddProductOwner" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Add Product Owner</p>
+                                    </a>
+                                </li>
 
-                @RenderBody()
+                                <li class="nav-item">
+                                    <a asp-controller="Pg" asp-action="AddPgOwner" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Add PG Owner</p>
+                                    </a>
+                                </li>
 
+                                <li class="nav-item">
+                                    <a asp-controller="Agency" asp-action="AddAgency" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Add Agency</p>
+                                    </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a asp-controller="ApprovePgProperties" asp-action="Index" class="nav-link">
+                                        <i class="far fa-circle nav-icon"></i>
+                                        <p>Approved PG Properties</p>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </li>
+
+                    </ul>
+                </nav>
             </div>
-            <!-- /.content-wrapper -->
+        </aside>
+        <!-- END SIDEBAR -->
+        <!-- CONTENT WRAPPER -->
+        <div class="content-wrapper">
 
-            <footer class="main-footer">
-                <div class="float-right d-none d-sm-block">
-                    <b>Version</b> 3.2.0
-                </div>
-                <strong>&copy; 2024 AdminLTE.</strong>
-            </footer>
+            @RenderBody()
 
-            <aside class="control-sidebar control-sidebar-dark"></aside>
+        </div>
+        <!-- END CONTENT WRAPPER -->
+        <!-- FOOTER -->
+        <footer class="main-footer">
+            <div class="float-right d-none d-sm-block">
+                <b>Version</b> 3.2.0
+            </div>
+            <strong>&copy; 2024 AdminLTE.</strong> All rights reserved.
+        </footer>
 
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark"></aside>
 
-    </div>
-
+    </div> <!-- END WRAPPER -->
     <!-- REQUIRED SCRIPTS -->
-    <script>
-        $(document).ready(function () {
-            setTimeout(function () {
-                $('body').addClass('sidebar-collapse');
-            }, 1000);
-        });
-    </script>
-
     <script src="~/plugins/jquery/jquery.min.js"></script>
     <script src="~/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="~/dist/js/adminlte.min.js"></script>

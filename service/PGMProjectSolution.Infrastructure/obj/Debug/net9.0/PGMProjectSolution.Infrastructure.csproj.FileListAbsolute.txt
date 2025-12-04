@@ -15,3 +15,4 @@ C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.pdb
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\ref\PGMProjectSolution.Infrastructure.dll
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Domain\obj\Debug\net9.0\refint\PGMProjectSolution.Domain.dll
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Domain\obj\Debug\net9.0\PGMProjectSolution.Domain.pdb
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Domain\obj\Debug\net9.0\ref\PGMProjectSolution.Domain.dll
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Domain\obj\Debug\net9.0\PGMProjectSolution.Domain.sourcelink.json

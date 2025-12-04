@@ -3,60 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0251A71-A80A-474B-AAAA-EB25A47A4FE1}|service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.domain\\models\\uimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0251A71-A80A-474B-AAAA-EB25A47A4FE1}|service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj|solutionrelative:service\\pgmprojectsolution.domain\\models\\uimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.application\\services\\uimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|solutionrelative:service\\pgmprojectsolution.application\\services\\uimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0251A71-A80A-474B-AAAA-EB25A47A4FE1}|service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.domain\\pgmprojectsolution.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F0251A71-A80A-474B-AAAA-EB25A47A4FE1}|service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj|solutionrelative:service\\pgmprojectsolution.domain\\pgmprojectsolution.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.application\\services\\agencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|solutionrelative:service\\pgmprojectsolution.application\\services\\agencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.application\\interfaces\\iuimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|solutionrelative:service\\pgmprojectsolution.application\\interfaces\\iuimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\controllers\\pgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\controllers\\pgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3EE74DDA-C67B-44A5-8B40-E908F4D4EE9F}|service\\PGMProjectSolution.Infrastructure\\PGMProjectSolution.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3EE74DDA-C67B-44A5-8B40-E908F4D4EE9F}|service\\PGMProjectSolution.Infrastructure\\PGMProjectSolution.Infrastructure.csproj|solutionrelative:service\\pgmprojectsolution.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0251A71-A80A-474B-AAAA-EB25A47A4FE1}|service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.domain\\models\\uimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0251A71-A80A-474B-AAAA-EB25A47A4FE1}|service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj|solutionrelative:service\\pgmprojectsolution.domain\\models\\uimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\approvepgproperties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\approvepgproperties\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\controllers\\layoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\controllers\\layoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\controllers\\approvepgpropertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\controllers\\approvepgpropertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.application\\interfaces\\iuimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|solutionrelative:service\\pgmprojectsolution.application\\interfaces\\iuimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\adminuser\\addproductowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\adminuser\\addproductowner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE74DDA-C67B-44A5-8B40-E908F4D4EE9F}|service\\PGMProjectSolution.Infrastructure\\PGMProjectSolution.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE74DDA-C67B-44A5-8B40-E908F4D4EE9F}|service\\PGMProjectSolution.Infrastructure\\PGMProjectSolution.Infrastructure.csproj|solutionrelative:service\\pgmprojectsolution.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\controllers\\pgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\controllers\\pgcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.application\\services\\agencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|solutionrelative:service\\pgmprojectsolution.application\\services\\agencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.application\\services\\uimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F4D164C-18A7-417D-BD72-79257DE6D7EA}|service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj|solutionrelative:service\\pgmprojectsolution.application\\services\\uimenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\controllers\\layoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\controllers\\layoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\pg\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -127,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\controllers\\adminusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\controllers\\approvepgpropertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\controllers\\approvepgpropertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|solutionrelative:service\\pgmprojectsolution.api\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50068CAF-2D5C-4A04-8FE4-DF7FD943D18D}|service\\PGMProjectSolution.Api\\PGMProjectSolutionApi.csproj|c:\\users\\lenovo\\source\\repos\\solutions.ui\\projects\\solution\\employeesolution\\pgm\\pgmsolutionproject\\service\\pgmprojectsolution.api\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -178,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -187,139 +183,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IUIMenuService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T12:03:06.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UIMenuService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T12:12:38.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AgencyService.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAlwCQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T12:59:40.677Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PGMProjectSolution.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj",
-              "RelativeToolTip": "service\\PGMProjectSolution.Domain\\PGMProjectSolution.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-29T16:39:52.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UIMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T12:01:05.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Sidebar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-03T06:09:56.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PgController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T09:42:05.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAqwH0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T10:52:12.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-28T10:44:58.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwHQAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T09:33:07.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Program.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Program.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T10:57:25.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\ApprovePgProperties\\Index.cshtml",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\ApprovePgProperties\\Index.cshtml",
@@ -331,7 +194,164 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PgController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Controllers\\PgController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T09:42:05.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Domain\\Models\\UIMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:01:05.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-04T18:37:19.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T10:52:12.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T10:50:21.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T09:33:07.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApprovePgPropertiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T05:54:33.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Program.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Program.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T10:57:25.474Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "AgencyService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Application\\Services\\AgencyService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:59:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:44:58.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductOwner.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
+              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T10:26:17.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUIMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Application\\Interfaces\\IUIMenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:03:06.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UIMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
+              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
+              "RelativeToolTip": "service\\PGMProjectSolution.Application\\Services\\UIMenuService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:12:38.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "LayoutController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\LayoutController.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\LayoutController.cs",
@@ -343,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Pg\\Index.cshtml",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Pg\\Index.cshtml",
@@ -355,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AspNetUsersModelView.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\AspNetUsersModelView.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Models\\AspNetUsersModelView.cs",
@@ -367,19 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddProductOwner.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\AdminUser\\AddProductOwner.cshtml",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAACsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T10:26:17.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AspNetRoleModelView.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\AspNetRoleModelView.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Models\\AspNetRoleModelView.cs",
@@ -391,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "AdminUserController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\AdminUserController.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\AdminUserController.cs",
@@ -403,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AspNetAgencyViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\AspNetAgencyViewModel.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Models\\AspNetAgencyViewModel.cs",
@@ -415,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "AspNetRoleService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\AspNetRoleService.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Services\\AspNetRoleService.cs",
@@ -424,18 +432,6 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAzwBkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-29T09:01:14.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ApprovePgPropertiesController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Controllers\\ApprovePgPropertiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T05:54:33.173Z"
             },
             {
               "$type": "Document",
@@ -452,18 +448,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "service\\PGMProjectSolution.Api\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-28T10:50:21.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -475,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\HomeController.cs",
@@ -487,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "adminlte.css",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\wwwroot\\dist\\css\\adminlte.css",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\wwwroot\\dist\\css\\adminlte.css",
@@ -499,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "AddAgency.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\Agency\\AddAgency.cshtml",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\Agency\\AddAgency.cshtml",
@@ -511,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "AgencyController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Controllers\\AgencyController.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Controllers\\AgencyController.cs",
@@ -523,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IAgenciesService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IAgenciesService.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Interfaces\\IAgenciesService.cs",
@@ -535,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AspNetPgOwnerService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\AspNetPgOwnerService.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Services\\AspNetPgOwnerService.cs",
@@ -547,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AspNetPgOwnerModelView.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Models\\AspNetPgOwnerModelView.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Models\\AspNetPgOwnerModelView.cs",
@@ -559,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AspNetUsersService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Services\\AspNetUsersService.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Services\\AspNetUsersService.cs",
@@ -571,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "PGMProjectSolution.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\PGMProjectSolution.Application.csproj",
@@ -583,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IAspPgOwnerService.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IAspPgOwnerService.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Interfaces\\IAspPgOwnerService.cs",
@@ -595,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "IAspNetRole.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IAspNetRole.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Interfaces\\IAspNetRole.cs",
@@ -607,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\_ViewStart.cshtml",
@@ -619,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AspNetRole.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Entity\\AspNetRole.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Entity\\AspNetRole.cs",
@@ -631,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IAspNetUsers.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Application\\Interfaces\\IAspNetUsers.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Application\\Interfaces\\IAspNetUsers.cs",
@@ -643,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "AspNetUser.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Entity\\AspNetUser.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Entity\\AspNetUser.cs",
@@ -655,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "BaseAuditEntity.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Domain\\Entity\\BaseAuditEntity.cs",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Domain\\Entity\\BaseAuditEntity.cs",
@@ -667,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\Views\\_ViewImports.cshtml",
@@ -679,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\solutions.UI\\Projects\\Solution\\EmployeeSolution\\PGM\\PGMSolutionProject\\service\\PGMProjectSolution.Api\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "service\\PGMProjectSolution.Api\\wwwroot\\css\\site.css",

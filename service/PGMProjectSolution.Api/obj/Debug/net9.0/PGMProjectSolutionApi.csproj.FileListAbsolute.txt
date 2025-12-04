@@ -2139,3 +2139,4 @@ C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolutionApi.pdb
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolutionApi.genruntimeconfig.cache
 C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\ref\PGMProjectSolutionApi.dll
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolutionApi.sourcelink.json
