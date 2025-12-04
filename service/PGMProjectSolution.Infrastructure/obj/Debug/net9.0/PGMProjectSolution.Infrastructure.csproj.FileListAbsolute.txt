@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\bin\Debug\net9.0\PGMProjectSolution.Infrastructure.deps.json
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\bin\Debug\net9.0\PGMProjectSolution.Infrastructure.runtimeconfig.json
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\bin\Debug\net9.0\PGMProjectSolution.Infrastructure.dll
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\bin\Debug\net9.0\PGMProjectSolution.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\bin\Debug\net9.0\PGMProjectSolution.Domain.dll
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\bin\Debug\net9.0\PGMProjectSolution.Domain.pdb
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProje.F939C95A.Up2Date
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.dll
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\refint\PGMProjectSolution.Infrastructure.dll
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.pdb
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\PGMProjectSolution.Infrastructure.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Infrastructure\obj\Debug\net9.0\ref\PGMProjectSolution.Infrastructure.dll

@@ -1,0 +1,133 @@
+﻿@using PGMProjectSolution.Domain.Models
+@model AspNetUsersModelView
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Owner Details</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        .table-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .form-section {
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+
+        .page-title {
+            font-weight: 700;
+            margin-top: 20px;
+            margin-bottom: 30px;
+            color: #0d6efd;
+            text-align: center;
+        }
+
+        .form-control {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+
+<body class="main-sidebar sidebar-dark-primary elevation-4">
+
+
+    <div class="container">
+
+        <h1 class="page-title">Owner Details</h1>
+
+        <div class="row g-4">
+
+            <!-- Roles Table -->
+            <div class="col-md-7">
+                <div class="table-container">
+
+                    <h4 class="mb-3">Available Roles</h4>
+
+                    <table class="table table-hover table-bordered">
+                        <thead class="table-dark">
+                            <tr>
+                                <th>FullName</th>
+                                <th>UserName</th>
+                                <th>Email</th>
+                                <th>Contact</th>
+
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var item in Model.ListUsers)
+                            {
+                                <tr>
+                                    <td>@item.FullName</td>
+                                    <td>@item.UserName</td>
+                                    <td>@item.Email</td>
+                                    <td>@item.PhoneNumber</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                    <small class="text-muted">Click a row to auto-fill the form.</small>
+                </div>
+            </div>
+
+            <!-- Add Owner Form -->
+            <div class="col-md-5">
+                
+                <div class="form-section">
+                    <form asp-controller="AdminUser" asp-action="Create" method="post">
+                    <h4 class="mb-3">Add Owner</h4>
+
+                        <input type="hidden" id="RoleOwnerId" name="RoleOwnerId" />
+
+                        <label class="form-label">Owner Full Name</label>
+                        <input type="text" id="RoleOwnerName" name="FullName" class="form-control" placeholder="Enter Full Name: " />
+
+
+                        <label class="form-label">Owner User Name</label>
+                        <input type="text" id="RoleOwnerName" name="UserName" class="form-control" placeholder="Enter UserName: " />
+
+                        <label class="form-label">Owner Email</label>
+                        <input type="text" id="RoleOwnerName" name="Email" class="form-control" placeholder="Enter Email: " />
+
+                        <label class="form-label">EmailConfirmed</label>
+                        <input type="text" id="RoleOwnerName" name="EmailConfirmed" class="form-control" placeholder="Enter Confirm Email: " />
+
+                        <label class="form-label">Contact Number</label>
+                        <input type="text" id="RoleOwnerNumber" name="PhoneNumber" class="form-control" placeholder="Enter Contact Number: " />
+
+                        <button type="submit" class="btn btn-primary w-100 mt-3">Add Owner</button>
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        // Fill form on row click
+        function selectRole(id, name) {
+            document.getElementById("RoleOwnerId").value = id;
+            document.getElementById("RoleOwnerName").value = name;
+        }
+    </script>
+
+</body>
+</html>

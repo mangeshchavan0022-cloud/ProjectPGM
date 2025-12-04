@@ -1,0 +1,28 @@
+﻿@model List<PGMProjectSolution.Domain.Models.UIMenuDto>
+
+<aside class="main-sidebar sidebar-dark-primary elevation-4">
+
+    <a href="#" class="brand-link">
+        <img src="~/dist/img/AdminLTELogo.png" class="brand-image img-circle elevation-3">
+        <span class="brand-text">PG Manager</span>
+    </a>
+
+    <div class="sidebar">
+        <nav class="mt-2">
+            <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview">
+
+                @foreach (var item in Model)
+                {
+                    <li class="nav-item">
+                        <a asp-controller="@item.Controller" asp-action="@item.Action" class="nav-link">
+                            <i class="far fa-circle nav-icon"></i>
+                            <p>@item.Menu</p>
+                        </a>
+                    </li>
+                }
+
+            </ul>
+        </nav>
+    </div>
+
+</aside>

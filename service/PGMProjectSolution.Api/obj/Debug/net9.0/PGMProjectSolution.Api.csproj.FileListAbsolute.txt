@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\solutions.UI\Projects\Solution\EmployeeSolution\PGM\PGMSolutionProject\service\PGMProjectSolution.Api\obj\Debug\net9.0\PGMProjectSolution.Api.RazorAssemblyInfo.cs

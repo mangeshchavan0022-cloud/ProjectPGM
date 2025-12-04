@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AdminLTE 3 | Final Dashboard</title>
+
+    <!-- Google Font -->
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/plugins/fontawesome-free/css/all.min.css">
+
+    <!-- overlayScrollbars -->
+    <link rel="stylesheet" href="~/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/dist/css/adminlte.min.css">
+</head>
+
+<body class="hold-transition sidebar-mini layout-fixed sidebar-collapse">
+    <div class="wrapper">
+
+
+        <!-- ADMINLTE NAVBAR -->
+        <!-- END NAVBAR -->
+        <!-- SIDEBAR -->
+        <!-- PAGE CONTENT -->
+        <div class="content-wrapper">
+
+            <section class="content pt-4">
+                <div class="container text-center">
+
+                    <h3 class="fw-bold mb-4">Project <span class="text-primary">Infographic</span></h3>
+                    <!--'AdminUser', 'Agency', 'ApprovedPgProperties', 'Pg' -->
+                    <!-- Top Titles -->
+                    <div class="row mb-4">
+                        <div class="col-md-3">
+                            <a asp-controller="AdminUser" asp-action="AddProductOwner">
+                                <h5 class="fw-bold">Add Product Owner</h5>
+                                <p>Lorem ipsum dolor sit amet.</p>
+                            </a>
+                        </div>
+
+                        <div class="col-md-6"></div>
+
+                        <div class="col-md-3">
+                            <a asp-controller="Pg" asp-action="Index">
+                                <h5 class="fw-bold">Add PG Owner</h5>
+                                <p>Lorem ipsum dolor sit amet.</p>
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Circle -->
+                    <div class="center-circle mb-5">
+                        <div class="outer-ring"></div>
+                        <div class="inner-circle"><br>PG<br>Management</div>
+                    </div>
+
+                    <!-- Bottom Titles -->
+                    <div class="row mb-5">
+                        <div class="col-md-3">
+                            <a asp-controller="Agency" asp-action="AddAgency">
+                                <h5 class="fw-bold">Add Agency</h5>
+                                <p>Lorem ipsum dolor sit amet.</p>
+                            </a>
+                        </div>
+
+                        <div class="col-md-6"></div>
+
+                        <div class="col-md-3">
+                            <a asp-controller="ApprovePgProperties" asp-action="Index">
+                                <h5 class="fw-bold">Approved PG Owner</h5>
+                                <p>Lorem ipsum dolor sit amet.</p>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+            <!-- Custom Styles -->
+            <style>
+                .center-circle {
+                    width: 260px;
+                    height: 260px;
+                    margin: auto;
+                    position: relative;
+                }
+
+                .outer-ring {
+                    width: 260px;
+                    height: 260px;
+                    border-radius: 50%;
+                    border: 12px solid #ddd;
+                    border-top-color: #e67e56;
+                    border-right-color: #234b7a;
+                    border-bottom-color: #8bc3d3;
+                    border-left-color: #e67e56;
+                }
+
+                .inner-circle {
+                    width: 140px;
+                    height: 140px;
+                    border-radius: 50%;
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                    background: white;
+                    border: 2px solid #eee;
+                    text-align: center;
+                    padding-top: 25px;
+                    font-weight: bold;
+                }
+            </style>
+
+        </div>
+
+        <!-- FOOTER -->
+        <footer class="main-footer text-center">
+            <strong>Copyright © 2024 AdminLTE.</strong>
+        </footer>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="plugins/jquery/jquery.min.js"></script>
+    <script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <script src="dist/js/adminlte.js"></script>
+
+</body>
+</html>
